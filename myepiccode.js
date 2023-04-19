@@ -34,5 +34,3 @@
 <script id="jetboost-script" type="text/javascript"> window.JETBOOST_SITE_ID = "clcfm9lzc01f00uuuers82ffc"; (function(d) { var s = d.createElement("script"); s.src = "https://cdn.jetboost.io/jetboost.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })(document); </script>
 
 
-<!-- [Attributes by Finsweet] Accordion -->
-<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-accordion@1/accordion.js"></script>
